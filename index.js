@@ -34,9 +34,13 @@ Do the following:
    HINT: no function required
 */
 
+let votingAge = 18;
 
-
-
+if (votingAge > 18){
+  console.log('True');
+}else{
+  console.log('False');
+}
 
 /*
 Task 1c - Convert Strings to Numbers (not auto tested)
@@ -48,6 +52,9 @@ Do the following:
 
    HINT: look up the Number method
 */
+let birthYear = "1999"{
+console.log("My birth year was 1999");
+
 
 
 
